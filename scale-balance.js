@@ -1,7 +1,6 @@
 stringArray = ["[5, 9]", "[1, 2, 6 ,7]"];
 
 const scaleBalancing = (strArr) => {
-  debugger;
   const startingWeights = [];
   const availableWeights = [];
   let diff = 0;
